@@ -1,0 +1,22 @@
+{
+    "name": "Random",
+    "version": "1.0.0",
+    "description": "",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "_locales/zh/README.md",
+        "_locales/zh/Random-strings.json"
+    ],
+    "targetVersions": {
+        "target": "4.0.16",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "Mason"
+}
